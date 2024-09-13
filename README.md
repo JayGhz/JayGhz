@@ -2,8 +2,6 @@
 
 I am Jhair, a Computer Science student with a strong passion for web development and data science. I continuously seek to learn and engage with the latest and most sought-after technologies. I excel in collaborative settings, find joy in learning from others, and take pleasure in sharing my knowledge.
 
----
-
 ## Skills
 
 <p align="center" style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; max-width: 600px;">
@@ -93,7 +91,6 @@ I am Jhair, a Computer Science student with a strong passion for web development
   </a>
 </p>
 
----
 
 ## Statistics
 
@@ -107,10 +104,8 @@ I am Jhair, a Computer Science student with a strong passion for web development
 </p>
 
 
----
-
 ## Contact
 
-- **Email:** [your-email@example.com](mailto:jaykansas7@gmaile.com)
-- **GitHub:** [github.com/yourusername](https://github.com/JayGhz)
+- **Email:** [jaykansas7@gmaile.com](mailto:jaykansas7@gmaile.com)
+- **GitHub:** [JayGhz](https://github.com/JayGhz)
 
