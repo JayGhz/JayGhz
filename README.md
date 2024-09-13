@@ -131,12 +131,12 @@ I am Jhair, a Computer Science student with a strong passion for web development
 
 ## Statistics
 
-<p align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center;">
+<p align="center" style="display: grid; grid-template-columns: repeat(2, auto); gap: 20px; justify-items: center;">
   <a href="http://www.github.com/JayGhz">
-    <img src="https://github-readme-stats.vercel.app/api?username=JayGhz&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&show_icons=true" alt="JayGhz's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JayGhz&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&show_icons=true" alt="JayGhz's GitHub stats" width="300" />
   </a>
   <a href="http://www.github.com/JayGhz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayGhz&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayGhz&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="300" />
   </a>
 </p>
 
