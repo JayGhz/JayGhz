@@ -96,7 +96,7 @@ I am Jhair, a Computer Science student with a strong passion for web development
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; padding: 20px; background-color: #212830; border-radius: 10px; border: 1px solid #1c2128; flex-wrap: wrap; text-align: center;">
   <a href="http://www.github.com/JayGhz" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JayGhz&show_icons=true&hide_title=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=212830&hide_border=true" alt="JayGhz's GitHub stats" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); width: 400px; height: 200px; object-fit: cover;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JayGhz&show_icons=true&hide_title=false&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=212830&hide_border=true" alt="JayGhz's GitHub stats" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); width: 400px; height: 200px; object-fit: cover;" />
   </a>
   <a href="http://www.github.com/JayGhz" style="text-decoration: none; display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayGhz&stroke=ffffff&background=212830&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="JayGhz's GitHub Streak Stats" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); width: 400px; height: 200px; object-fit: cover;" />
