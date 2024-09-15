@@ -93,18 +93,18 @@ I am Jhair, a Computer Science student with a strong passion for web development
 
 ## Statistics
 
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="center">
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" align="center" valign="top">
       <!-- Estadísticas generales -->
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayGhz&show_icons=true&hide_title=false&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=d0d0d0&bg_color=212830&hide_border=true" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); width: 400px; height: 200px; object-fit: cover;" />
-      <br>
+    </td>
+    <td width="50%" align="center" valign="top">
       <!-- Rachas -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JayGhz streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JayGhz&stroke=ffffff&background=212830&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); width: 400px; height: 200px; object-fit: cover;" />
     </td>
   </tr>
 </table>
-
 
 
 ## Contact
