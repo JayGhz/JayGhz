@@ -85,9 +85,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayGhz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&title_color=3382ed&text_color=ffffff&icon_color=d0d0d0&bg_color=00000000&hide_border=false&border_radius=16&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JayGhz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&title_color=3382ed&text_color=ffffff&icon_color=d0d0d0&bg_color=00000000&hide_border=true&border_radius=16&order=1" height="150" alt="stats graph" />
   
-  <img src="https://streak-stats.demolab.com?user=JayGhz&locale=en&mode=daily&theme=transparent&ring=3382ed&fire=3382ed&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&currStreakLabel=3382ed&hide_border=false&background=00000000&border_radius=16&order=3" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=JayGhz&locale=en&mode=daily&theme=transparent&ring=3382ed&fire=3382ed&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&currStreakLabel=3382ed&hide_border=true&background=00000000&border_radius=16&order=3" height="150" alt="streak graph" />
 </div>
 
 ###
