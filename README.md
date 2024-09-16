@@ -20,14 +20,18 @@
 
 ###
 
+###
+
 <div align="center">
   <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
