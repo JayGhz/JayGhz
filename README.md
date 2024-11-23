@@ -25,7 +25,6 @@
   
   <img src="https://streak-stats.demolab.com?user=JayGhz&locale=en&mode=daily&theme=transparent&ring=3382ed&fire=3382ed&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&currStreakLabel=3382ed&hide_border=true&background=00000000&border_radius=16&order=3" height="150" alt="streak graph" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayGhz&layout=compact&langs_count=12&hide=html,css&theme=transparent&title_color=3382ed&text_color=ffffff&icon_color=d0d0d0&bg_color=00000000&hide_border=true&border_radius=16" height="150" alt="most used languages" />
 </div>
 
 ###
