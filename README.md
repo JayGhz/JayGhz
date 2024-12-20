@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br><br>📚 I'm currently learning Astro, Rust and Go.<br><br>🎯 Goals:<br>- Contribute to or leave a mark on the open-source community.<br>- Graduate and pursue remote work opportunities.<br>- Expand my knowledge about the latest technologies in programming.<br><br>🎲 Fun fact: Sometimes I spend more time configuring my GitHub profile and coding editor than actually programming!</p>
+<p align="left">✨ Creating bugs since 2021<br><br>📚 I'm currently learning Astro, Rust and Go.<br><br>🎯 Goals:<br>- Contribute to or leave a mark on the open-source community.<br>- Graduate and pursue remote work opportunities.<br>- Expand my knowledge about the latest technologies in programming.<br><br></p>
 
 ###
 
